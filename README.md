@@ -1,2 +1,2 @@
 # audifonos-TechPRO
-ver en linea: https://app.netlify.com/sites/techpro-music/overview
+ver en linea: https://techpro-music.netlify.app/
